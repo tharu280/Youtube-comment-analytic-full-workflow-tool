@@ -78,6 +78,4 @@ This project enables a user to input any YouTube video URL and receive live insi
 
 MIT License
 
----
 
-**Built with ❤️ by Tharushika**
