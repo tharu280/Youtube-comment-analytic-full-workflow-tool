@@ -51,16 +51,6 @@ This project enables a user to input any YouTube video URL and receive live insi
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repo.
-2. Set up your API key and model weights.
-3. Configure Azure SQL and Data Factory.
-4. Run the script and start analyzing!
-
----
-
-
 ## 📌 Future Plans
 
 - Add support for replies to comments.
