@@ -60,11 +60,6 @@ This project enables a user to input any YouTube video URL and receive live insi
 
 ---
 
-## 📊 Sample Dashboard
-
-*(Insert image or link here once available)*
-
----
 
 ## 📌 Future Plans
 
